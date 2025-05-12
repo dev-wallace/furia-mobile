@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "furia",
-    "slug": "snack-202bc24f-3cbe-4f88-9653-69493affe380",
+    "name": "furia-project",
+    "slug": "snack-0c45bd7b-947b-4a11-b06e-0468579553ae",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +23,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "projeto de quinta"
   }
 }
